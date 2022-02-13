@@ -1,1 +1,1 @@
-Create a list of items in html
+Create a recipe list
